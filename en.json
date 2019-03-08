@@ -1,5 +1,6 @@
 {
- "lang":"en",
+ "lang.code":"en",
+ "lang.name":"English",
  "cover.enterName":"Enter your name and join the chat",
  "cover.join":"Join",
  "cover.enterServer":"Enter a server link",
@@ -12,7 +13,9 @@
  "themes.sun":"Sunny Day",
  "themes.hacker":"Hacker",
  "menu.people":"People",
- "menu.server":"Server"
+ "menu.server":"Server",
+ "menu.members":"Members of your server:"
+ "menu.delete":"Delete",
  "chat.yourName":"Your name is",
  "chat.enterMessage":"Enter your message...",
  "chat.chat":"Chat!",
